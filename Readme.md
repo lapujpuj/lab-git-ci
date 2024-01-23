@@ -142,7 +142,7 @@ This will display the YAML file corresponding to the Continuous Integration (CI)
 
 This file describes several essential steps in setting up a pipeline:
 **triggers** (`on` keyword): Defines the conditions under which the actions described in this pipeline will be carried out.
-** steps**: The description of the steps to be automated
+**steps** : The description of the steps to be automated
 
 You can now click on the `Start commit` button.
 
