@@ -30,6 +30,9 @@ jobs:
       - name : Show directory
         run : pwd
 
+      - name : Show the content of the directory
+        run : ls
+
       # Installe java 8 sur l'agent
       - name: Set up JDK 8
         uses: actions/setup-java@v2
